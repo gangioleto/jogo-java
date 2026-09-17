@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Cobra Arena",
+            "request": "launch",
+            "mainClass": "com.cobrinha.Main",
+            "console": "internalConsole",
+            "stopOnEntry": false
+        }
+    ]
+}
