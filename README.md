@@ -55,12 +55,15 @@ contador de FPS (parte de baixo) e um minimapa circular no canto inferior direit
 ### Pelo terminal
 
 ```bash
-./run.sh          # Linux e macOS
+bash run.sh       # Linux e macOS
 ```
 
 ```bat
 run.bat           :: Windows
 ```
+
+(No Linux e no macOS também dá para marcar o script como executável uma vez com
+`chmod +x run.sh` e depois chamar `./run.sh`.)
 
 Ou na mão, se preferir:
 
