@@ -1,0 +1,8 @@
+# Saída da compilação
+bin/
+*.class
+
+# Lixo de sistema operacional / editores
+.DS_Store
+Thumbs.db
+*.swp
