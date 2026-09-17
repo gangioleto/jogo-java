@@ -508,7 +508,7 @@ public class PainelJogo extends JPanel implements ActionListener {
             int x = (int) Math.round((cobra.cabecaX - camX) * zoom + largura / 2.0);
             int y = (int) Math.round((cobra.cabecaY - camY) * zoom + altura / 2.0
                     - (cobra.raioAtual * zoom + 14));
-            String texto = cobra.humana ? cobra.nome : cobra.nome;
+            String texto = cobra.nome;
             int meio = g.getFontMetrics().stringWidth(texto) / 2;
             g.setColor(new Color(0, 0, 0, 150));
             g.drawString(texto, x - meio + 1, y + 1);
