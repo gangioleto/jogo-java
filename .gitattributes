@@ -1,0 +1,9 @@
+# Normaliza as quebras de linha no repositório.
+* text=auto
+
+# O prompt de comando do Windows prefere CRLF nos .bat.
+*.bat text eol=crlf
+*.cmd text eol=crlf
+
+# Scripts de shell sempre com LF.
+*.sh text eol=lf
