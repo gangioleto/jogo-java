@@ -1,5 +1,10 @@
 # Cobra Arena
 
+![Java](https://img.shields.io/badge/Java-17+-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Swing](https://img.shields.io/badge/UI-Swing-5382A1?style=flat-square)
+![Sem dependências](https://img.shields.io/badge/depend%C3%AAncias-nenhuma-2ea44f?style=flat-square)
+![Plataformas](https://img.shields.io/badge/roda_em-Windows%20%7C%20Linux%20%7C%20macOS-555555?style=flat-square)
+
 Jogo de cobrinha estilo arena escrito em **Java puro com Swing**: sem Maven, sem
 Gradle, sem nenhuma biblioteca externa. Basta um JDK instalado — no VS Code é só
 apertar **F5**.
